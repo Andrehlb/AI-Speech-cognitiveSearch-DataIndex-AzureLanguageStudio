@@ -28,7 +28,7 @@ Sinta-se à vontade para contribuir com este projeto, fazendo pull requests ou a
 ## Licença 
 Este projeto está licenciado sob o **MIT License** - veja o arquivo LICENSE.md para mais detalhes.
 
-Fontes: <br)
+Fontes: <br>
 (1) https://psiandresorayalima.blogspot.com/2012/04/entenda-o-que-ha-por-tras-das-picuinhas.... https://psiandresorayalima.blogspot.com/2012/04/entenda-o-que-ha-por-tras-das-picuinhas.html. <br>
 (2) https://www.scielo.br/j/anp/a/VzDhbFWq4GPvYBbMcDzXYhJ. https://www.scielo.br/j/anp/a/VzDhbFWq4GPvYBbMcDzXYhJ/. <br>
 (3) https://pressreleases.scielo.org/en/2020/11/25/eating-habits-personality-mood-and.... https://pressreleases.scielo.org/en/2020/11/25/eating-habits-personality-mood-and-headache-how-eating-disorders-can-relate-to-migraine/. <br>

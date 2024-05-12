@@ -49,9 +49,11 @@ OU
 
 ![Painel de Transcrições de Modelo de Voz](assets\image\painel-transcricoesModeloDeVoz-SpeechStudio-MS.png)
 
-9. No painel de Conversão de voz em texto em tempo real
+9. No painel de Conversão de voz em texto em tempo real selecione o idioma para a conversão
 
 ![Painel Conversão de voz em texto em tempo real](assets\image\painel-conversaoVozTextoTempoReal-SpeechStudio-MS.png)
+
+()
 
 3. Configure os índices e os pipelines de ingestão conforme necessário.
 

@@ -15,18 +15,50 @@ Este documento fornece uma visão geral do uso do **Azure AI | Speech Studio and
 - Conhecimento básico em APIs RESTful
 
 ### Configuração Speech Studio
-1. Crie um serviço do **Azure Speech Studio** no portal do Azure.
+1. Crie um serviço do **Azure Cognitive Speech Studio** no portal do Azure.
+
+![Srviço de fala cognitivo do Azure AI](assets\image\painel-SpeechCognitiveServices-AzureAI-SpeechStudio-MS.png)
+
+2. Selecione o Recurso Criado.
+
+![Painel de Criar Recursos](assets\image\Painel-Recurso2-Criar_Recurso_Voz.png)
+
+OU
+
+3. Na página Azure AI | Speech Studio, clique no símbolo da engranagem (posição superior direito) e selecione criar novo recurso caso não tenha recursos.
 
 ![Painel Speech Studio](assets\image\painel-AzureAI-SpeechStudio-MS.png)
 
-2. Clique ou tap no símbolo da emgranagem e selecione criar novo recurso caso não tenha recursos.
+4. Selecione "criar novo recurso"
 
+![Painel Definições - Speech Studio](assets\image\Painel-Definicoes.png)
 
-2. Configure os índices e os pipelines de ingestão conforme necessário.
-3. Use as APIs RESTful ou SDKs fornecidos pela Microsoft para integrar a pesquisa em seus aplicativos.
+5. Adicone os dados coforme seespecificado e clique no botão "Criar recurso"
+
+![Painel de Criar Novo Recurso](assets\image\Painel-Recurso-Criar_Recurso_Voz.png)
+
+6. Após o recurso criado, clique no botão azul "Utilizar recurso".
+
+![Painel de Criar Recursos](assets\image\Painel-Recurso2-Criar_Recurso_Voz.png)
+
+7. O painel Speech Studio Introdução a Voz se abrirá.
+
+![Painel Speech Studio](assets\image\painel-AzureAI-SpeechStudio-MS.png)
+
+8. Role a página para baixo e selecione a transcrição de voz mais adeuqada para o teu projeto, neste projeto será selecionada a "Conversão de vom em tempo real". 
+
+![Painel de Transcrições de Modelo de Voz](assets\image\painel-transcricoesModeloDeVoz-SpeechStudio-MS.png)
+
+9. No painel de Conversão de voz em texto em tempo real
+
+![Painel Conversão de voz em texto em tempo real](assets\image\painel-conversaoVozTextoTempoReal-SpeechStudio-MS.png)
+
+3. Configure os índices e os pipelines de ingestão conforme necessário.
+
+4. Use as APIs RESTful ou SDKs fornecidos pela Microsoft para integrar a pesquisa em seus aplicativos.
 
 ## Exemplos de Uso
-Este repositório inclui exemplos detalhados sobre como configurar e usar o **Azure AI | Speech and Cognitive Search** para realizar tarefas complexas de pesquisa e análise.
+Este repositório inclui exemplos detalhados sobre como configurar e usar o **Azure AI | Speech and Cognitive Search** para realizar tarefas complexas de reconhecimento de voz, pesquisa e análise.
 
 ## Contribuição
 Sinta-se à vontade para contribuir com este projeto, fazendo pull requests ou abrindo issues.

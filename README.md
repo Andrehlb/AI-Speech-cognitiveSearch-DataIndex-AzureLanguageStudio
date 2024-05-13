@@ -1,21 +1,29 @@
-# Azure Cognitive Search: Utilizando AI Search para Indexação e Consulta de Dados
+# Azure Cognitive Search e Speech Studio: Utilizando AI Search para Indexação e Consulta de Dados e Speech Studio para transcrição de texto a partir de voz.
 
 ## Introdução
-Este documento fornece uma visão geral do uso do **Azure AI | Speech Studio and Cognitive Search**, uma poderosa plataforma de pesquisa baseada em nuvem que utiliza recursos avançados de IA para indexar, pesquisar e analisar grandes volumes de conteúdo não estruturado.
+Este documento fornece uma visão geral do uso do **Azure AI | Cognitive Search e do Speech Studio**, poderosas plataformas de pesquisa e de transcrever fala para texto com alta precisão, produzir texto com som natural para vozes de fala, traduzir áudio falado e usar o reconhecimento de alto-falante durante conversas, em tempo real ou de forma assíncrona com transcrição em lote, baseada em nuvem que utiliza recursos avançados de IA para indexar, pesquisar e analisar grandes volumes de conteúdo não estruturado.
 
-## Características
+## Características do Cognitive Search
 - **Indexação Eficiente:** Automatize a indexação de dados com pipelines de ingestão configuráveis.
 - **Pesquisa Inteligente:** Implemente funcionalidades avançadas como pesquisa semântica, correção automática e sugestões.
 - **Análise Profunda:** Extraia insights valiosos dos seus dados com análises detalhadas.
 
-## Como Começar
+## Conversão de voz em texto em tempo real
+Com fala em texto em tempo real, o áudio é transcrito à medida que a fala é reconhecida a partir de um microfone ou arquivo. Use fala em tempo real para texto para aplicativos que precisam transcrever áudio em tempo real, como:
+
+- Transcrições, legendas ou legendas para reuniões ao vivo
+- Diarização
+- Avaliação da pronúncia
+- Agentes de contact center auxiliam
+- Ditado
+- Agentes de voz
 
 ### Pré-requisitos
 - Assinatura do Azure
 - Conhecimento básico em APIs RESTful
 
 ### Configuração Speech Studio
-1. Crie um serviço do **Azure Cognitive Speech Studio** no portal do Azure.
+1. Crie um serviço do **Azure Speech Studio** no portal do Azure.
 
 ![Serviço de fala cognitivo do Azure AI](inputs\image\painel-SpeechCognitiveServices-AzureAI-SpeechStudio-MS.png)
 

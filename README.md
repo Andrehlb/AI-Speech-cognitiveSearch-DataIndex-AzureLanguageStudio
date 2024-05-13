@@ -21,7 +21,7 @@ Este documento fornece uma visão geral do uso do **Azure AI | Speech Studio and
 
 2. Selecione o Recurso Criado.
 
-![Painel de Criar Recursos](inputs\image\Painel-Recurso2-Criar_Recurso_Voz.png)
+![Painel de Criar Recursos](inputs\image\Painel-Recurso-Criar_Recurso_Voz.png)
 
 OU
 

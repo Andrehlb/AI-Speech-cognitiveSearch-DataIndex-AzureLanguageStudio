@@ -17,7 +17,7 @@ Este documento fornece uma visão geral do uso do **Azure AI | Speech Studio and
 ### Configuração Speech Studio
 1. Crie um serviço do **Azure Cognitive Speech Studio** no portal do Azure.
 
-![Srviço de fala cognitivo do Azure AI](assets\image\painel-SpeechCognitiveServices-AzureAI-SpeechStudio-MS.png)
+![Serviço de fala cognitivo do Azure AI](assets\image\painel-SpeechCognitiveServices-AzureAI-SpeechStudio-MS.png)
 
 2. Selecione o Recurso Criado.
 

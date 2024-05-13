@@ -53,6 +53,9 @@ OU
 
 ![Painel Conversão de voz em texto em tempo real](assets\image\painel-conversaoVozTextoTempoReal-SpeechStudio-MS.png)
 
+10. Grave um aúdio para ser transcrito e faça o upload.
+
+![]
 ()
 
 3. Configure os índices e os pipelines de ingestão conforme necessário.

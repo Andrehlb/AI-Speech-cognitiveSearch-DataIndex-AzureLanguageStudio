@@ -25,7 +25,7 @@ Com fala em texto em tempo real, o áudio é transcrito à medida que a fala é 
 ### Configuração Speech Studio
 1. Crie um serviço do **Azure Speech Studio** no portal do Azure.
 
-![Serviço de fala cognitivo do Azure AI](inputs\image\painel-SpeechCognitiveServices-AzureAI-SpeechStudio-MS.png)
+![Serviço de fala cognitivo do Azure AI](inputs/image/painel-SpeechCognitiveServices-AzureAI-SpeechStudio-MS.png)
 
 2. Selecione o Recurso Criado.
 

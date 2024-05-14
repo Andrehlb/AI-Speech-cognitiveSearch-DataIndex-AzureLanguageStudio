@@ -29,37 +29,37 @@ Com fala em texto em tempo real, o áudio é transcrito à medida que a fala é 
 
 2. Selecione o Recurso Criado.
 
-![Painel de Criar Recursos](inputs\image\Painel-Recurso-Criar_Recurso_Voz.png)
+![Painel de Criar Recursos](inputs/image/Painel-Recurso-Criar_Recurso_Voz.png)
 
 OU
 
 3. Na página Azure AI | Speech Studio, clique no símbolo da engranagem (posição superior direito) e selecione criar novo recurso caso não tenha recursos.
 
-![Painel Speech Studio](inputs\image\painel-AzureAI-SpeechStudio-MS.png)
+![Painel Speech Studio](inputs/image/painel-AzureAI-SpeechStudio-MS.png)
 
 4. Selecione "criar novo recurso"
 
-![Painel Definições - Speech Studio](inputs\image\Painel-Definicoes.png)
+![Painel Definições - Speech Studio](inputs/image/Painel-Definicoes.png)
 
 5. Adicone os dados coforme seespecificado e clique no botão "Criar recurso"
 
-![Painel de Criar Novo Recurso](inputs\image\Painel-Recurso-Criar_Recurso_Voz.png)
+![Painel de Criar Novo Recurso](inputs/image/Painel-Recurso-Criar_Recurso_Voz.png)
 
 6. Após o recurso criado, clique no botão azul "Utilizar recurso".
 
-![Painel de Criar Recursos](inputs\image\Painel-Recurso2-Criar_Recurso_Voz.png)
+![Painel de Criar Recursos](inputs/image/Painel-Definicoes-nomeRecurso_Voz.png)
 
 7. O painel Speech Studio Introdução a Voz se abrirá.
 
-![Painel Speech Studio](inputs\image\painel-AzureAI-SpeechStudio-MS.png)
+![Painel Speech Studio](inputs/image/painel-AzureAI-SpeechStudio-MS.png)
 
 8. Role a página para baixo e selecione a transcrição de voz mais adeuqada para o teu projeto, neste projeto será selecionada a "Conversão de vom em tempo real". 
 
-![Painel de Transcrições de Modelo de Voz](inputs\image\painel-transcricoesModeloDeVoz-SpeechStudio-MS.png)
+![Painel de Transcrições de Modelo de Voz](inputs/image/painel-transcricoesModeloDeVoz-SpeechStudio-MS.png)
 
 9. No painel de Conversão de voz em texto em tempo real selecione o idioma para a conversão
 
-![Painel Conversão de voz em texto em tempo real](inputs\image\painel-conversaoVozTextoTempoReal-SpeechStudio-MS.png)
+![Painel Conversão de voz em texto em tempo real](inputs/image/painel-conversaoVozTextoTempoReal_US-SpeechStudio-MS.png)
 
 10. Grave um aúdio para ser transcrito e faça o upload.
 

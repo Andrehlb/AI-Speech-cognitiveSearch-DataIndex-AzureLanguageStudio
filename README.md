@@ -1,3 +1,5 @@
+# # Repositório em construção 🚧🏗️🚧
+
 # Azure Cognitive Search e Speech Studio: Utilizando AI Search para Indexação e Consulta de Dados e Speech Studio para transcrição de texto a partir de voz.
 
 ## Introdução
